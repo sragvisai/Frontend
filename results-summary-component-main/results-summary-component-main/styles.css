@@ -20,6 +20,7 @@ body{
     margin: auto;
     border: 2px solid hsla(224, 30%, 27%,0.03);
     border-radius: 4.3%;
+    box-shadow: 10px 10px 10px 1px hsla(241, 81%, 54%,0.1);
 }
 
 .left{
