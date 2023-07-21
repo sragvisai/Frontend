@@ -1,6 +1,6 @@
 import './App.css';
 
-import DisplayHome from './components/displayHome';
+import DisplayHome from './components/DisplayHome';
 
 function App() {
   return (
