@@ -1,12 +1,12 @@
 import './App.css';
-
+import { Helmet } from 'react-helmet';
 import DisplayHome from './components/DisplayHome';
 
 function App() {
   return (
-    <div className="App">
-     <p>Hello there!</p>
-    </div>
+    <Helmet>
+    <title>My App</title>
+  </Helmet>
   );
 }
 
