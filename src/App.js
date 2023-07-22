@@ -5,7 +5,7 @@ import DisplayHome from './components/DisplayHome';
 function App() {
   return (
     <div className="App">
-      <DisplayHome></DisplayHome>
+     <p>Hello there!</p>>
     </div>
   );
 }
